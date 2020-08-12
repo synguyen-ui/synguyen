@@ -1,0 +1,267 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.ndicon {
+    text-align: left;
+    width: 275px;
+}
+
+button.nutsend:hover {
+    color: gray;
+}
+
+.nd-nav:hover {
+    color: black;
+    cursor: pointer;
+}
+
+i.fab.fa-behance-square {
+    margin-right: 10px;
+}
+
+i.fab.fa-youtube {
+    margin-right: 10px;
+}
+
+.khoiicon-nav {
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: auto;
+    padding: 45px;
+}
+
+
+.tieude {
+    display: flex;
+    width: 408px;
+    justify-content: space-between;
+    font-size: 11px;
+    font-weight: 700;
+    color: #0000008a;
+}
+
+.nd1 {
+    font-size: 14px;
+}
+
+.khoi1 {
+    background: #eaeaea85;
+    padding: 87px;
+}
+
+i.icon {
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.nd-n1 {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.nd-n2 {
+    font-weight: 700;
+}
+
+.mess {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.emai {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.name {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+button.nutsend {
+    background: black;
+    color: white;
+    padding: 3px 15px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 14px;
+}
+
+input.nut.nutto {
+    height: 144px;
+}
+
+input.nut {
+    width: 428px;
+    background: #ffffff1f;
+    border: none;
+}
+
+.icons {
+    width: 284px;
+}
+
+.khoi2 {
+    /* background: black; */
+    color: white;
+    background-image: url(https://venngage-wordpress.s3.amazonaws.com/uploads/2018/09/Colorful-Circle-Simple-Background-Image-1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 120px;
+    padding: 2;
+    margin-top: 85px;
+}
+
+.khoinho2 {
+    background: #f1f1f13b;
+    padding: 23px;
+    width: 573px;
+    padding-left: 50px;
+}
+
+.khoinho1 {
+    background: #f1f1f130;
+    padding: 25px;
+    width: 449px;
+    height: 212px;
+    color: white;
+    margin-right: 213px;
+}
+
+.khoinho {
+    display: flex;
+    margin: auto;
+    margin-left: 50px;
+   
+}
+
+.mota-k2 {
+    text-align: center;
+    margin-bottom: 69px;
+    width: 908px;
+    margin: auto;
+    margin-bottom: 94px;
+}
+
+.tieude-k2 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 75px;
+}
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+
+}
+header{
+    width: 100%;
+    height: 302px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: -100px;
+}
+.tieude2-hd{
+    font-size: 80px;
+    font-weight: 400;
+}
+.tieude1-hd{
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 200px;
+}
+.layer-1{
+    color: color;
+    width: 400px;
+    height: 500px;
+    position: relative;
+    margin-right: 20px;
+}
+.anh1{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+.nd{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-color: rgba(222, 184, 135, 0.418);
+    font-weight: 700px;
+    opacity: 0;
+}
+.mota1{
+    font-size: 20px;
+}
+.tieude-k1{
+    width: 300px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -116px;
+    text-align: center;
+    margin: auto;
+    margin-top: -148px;
+    margin-bottom: 31px;
+    /* font-weight: 700; */
+}
+.nd1{
+    border: solid black 2px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    /* width: 400px; */
+    height: 41px;
+    cursor: pointer;
+}
+.mot{
+    background-color: black;
+    color: white;
+
+}
+footer{
+    width: 100%;
+    height: 40px;
+    background: black;
+    color: white;
+    text-align: center;
+}
+.icon{
+    display: flex;
+    width: 313px;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.deactive{
+    display: none;
+}
+.active{
+    display: inline;
+}
+.link1{
+    text-decoration: none;
+    color: #0000008a;
+}
